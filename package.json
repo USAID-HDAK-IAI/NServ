@@ -1,0 +1,23 @@
+{
+  "name": "nserv",
+  "version": "1.0.0",
+  "description": "This is the API for any advanced functionalities.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/USAID-HDAK-IAI/NServ.git"
+  },
+  "author": "Bobo BUYA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/USAID-HDAK-IAI/NServ/issues"
+  },
+  "homepage": "https://github.com/USAID-HDAK-IAI/NServ#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-useragent": "^1.0.13"
+  }
+}
